@@ -14,6 +14,7 @@ This project will start by:
 4 make control system for snake robot
 
 5 3D print parts for the robotsnake so it looks more like a real fish.
+
 6 DO systemIdentification of the robofish, to calibrate control system for snake-fish robot
 
 7 Include AI, to make the robo-fish infiltrate school, and change its direction 
