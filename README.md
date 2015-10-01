@@ -6,6 +6,7 @@ It will consist of a robotic snake, that with 3d printed parts will look like a 
 Its purpuse is to create a robot fish that will swim like a fish, and be able to swim into a school of fish and infiltrate the groups decision. 
 
 This project will start by:
+
 1 creating a simulator
 2 test the simulator up against a real swimming fish equiped with sensors
 
