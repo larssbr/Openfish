@@ -8,9 +8,11 @@ Its purpuse is to create a robot fish that will swim like a fish, and be able to
 This project will start by:
 
 1 creating a simulator
+
 2 test the simulator up against a real swimming fish equiped with sensors
 
 3 make a real life snake robot that will mimic the real swimming fish behaviour. 
+
 4 make control system for snake robot
 
 5 3D print parts for the robotsnake so it looks more like a real fish.
